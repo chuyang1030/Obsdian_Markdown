@@ -1,5 +1,5 @@
 ## vue项目的启动
-1.最开始要先创建项目：npm create vue@latest (项目名)
+1.最开始要先创建项目：npm create vue@latest vue-project(项目名)
 2.然后要安装node.js 部署好脚手架
 3.然后npm install
 4.cd vue-project(项目名)  
